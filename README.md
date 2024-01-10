@@ -47,8 +47,8 @@ This Pomodoro Timer website is designed to help you enhance productivity and man
 Contributions are welcome! If you have suggestions, enhancements, or bug fixes, please submit a pull request. For major changes, open an issue first to discuss potential modifications.
 
 
+![pomodoro](https://github.com/voltagevalkyrie/pomodoro-timer/assets/149293731/98811a92-9c15-475f-ae6c-9232ae7aca97)
 
-![Uploading pomodoro.png…]()
 
 
 
