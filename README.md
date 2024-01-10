@@ -46,11 +46,20 @@ This Pomodoro Timer website is designed to help you enhance productivity and man
 
 Contributions are welcome! If you have suggestions, enhancements, or bug fixes, please submit a pull request. For major changes, open an issue first to discuss potential modifications.
 
+
+
+![Uploading pomodoro.png…]()
+
+
+
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+-------------------------------------
 
 ### Advantages of the Pomodoro Technique
 
